@@ -14,6 +14,7 @@ npx create-react-app my-app --template typescript
 於是乎就上網找資料如何建立自己的模板。
 
 最終給我測試出來了。
+
 如果有更好的方法請一定要告知我，目前Webpack我還在研究中。
 ***
 
