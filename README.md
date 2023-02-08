@@ -4,7 +4,7 @@
 
 ## 建立自己的腳手架 (我喜歡叫做模板)
 
-因為自己在做一些小小的練習時候，每次都要重新建立一次React環境。雖然有官方的好用指令
+因為自己在做一些小小練習的時候，每次都要重新建立一次React環境。雖然有官方的好用指令
 
 ```text
 npx create-react-app my-app --template typescript
