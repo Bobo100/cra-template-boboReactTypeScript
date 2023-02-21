@@ -19,6 +19,7 @@ npx create-react-app my-app --template typescript
 ***
 
 使用我的最基本最基本套餐
+
 ```text
 npx create-react-app test --template cra-template-boboreacttypescript
 ```
@@ -28,6 +29,7 @@ npx create-react-app test --template cra-template-boboreacttypescript
 可以直接下載我的檔案去做更改，後面會教你怎麼做
 
 資料夾結構
+
 ```txt
 cra-template-boboReactTypeScript
 │  package.json
