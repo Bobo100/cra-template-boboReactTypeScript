@@ -18,6 +18,11 @@ npx create-react-app my-app --template typescript
 如果有更好的方法請一定要告知我，目前Webpack我還在研究中。
 ***
 
+使用我的最基本最基本套餐
+```text
+npx create-react-app test --template cra-template-boboreacttypescript
+```
+
 ## 步驟
 
 可以直接下載我的檔案去做更改，後面會教你怎麼做
