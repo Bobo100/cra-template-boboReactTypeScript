@@ -27,6 +27,9 @@
         "react-app",
         "react-app/jest"
       ]
+    },
+    "devDependencies": {
+      "sass": "^1.58.3"
     }
   }
 }
